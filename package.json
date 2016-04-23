@@ -1,0 +1,19 @@
+{
+  "name": "socketcluster-session",
+  "description": "SocketCluster session middleware",
+  "version": "0.0.1",
+  "main": "./lib",
+  "author": {
+    "name": "Antti Leppä",
+    "email": "antti.leppa@foyt.fi"
+  },
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "cookie-parser": "1.4.1"
+  },
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foyt/socketcluster-session.git"
+  }
+}
